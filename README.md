@@ -1,7 +1,7 @@
 # KC2
 
-[![Build Status](https://travis-ci.org/MZIchenjl/kc2.svg?branch=master)](https://travis-ci.org/MZIchenjl/kc2)
-[![GitHub last commit (gh-pages)](https://img.shields.io/github/last-commit/MZIchenjl/kc2/gh-pages.svg)](https://github.com/MZIchenjl/kc2/tree/gh-pages)
+[![Build Status](https://api.travis-ci.org/kozora/kc2main.svg?branch=master)](https://api.travis-ci.org/kozora/kc2main)
+
 
 main.js monitor
 
