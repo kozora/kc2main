@@ -1,0 +1,10 @@
+{
+  "name": "kc2",
+  "version": "0.0.0",
+  "description": "kancolle phase II main.js monitor",
+  "main": "main.js",
+  "devDependencies": {
+    "js-beautify": "^1.8.6"
+  },
+  "author": "MZI"
+}
