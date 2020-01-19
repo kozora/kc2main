@@ -14,7 +14,7 @@ script:
 deploy:
   provider: pages
   name: MZI
-  email: macchenjl@foxmail.com
+  email: kozora@hotmail.com
   github_token: $GITHUB_TOKEN
   skip-cleanup: true
   keep-history: true
