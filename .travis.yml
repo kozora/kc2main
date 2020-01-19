@@ -13,7 +13,7 @@ script:
   - cat output/main.formated.js | grep -o 'PORT_API_SEED = \[.*\]'
 deploy:
   provider: pages
-  name: MZI
+  name: kozora
   email: kozora@hotmail.com
   github_token: $GITHUB_TOKEN
   skip-cleanup: true
